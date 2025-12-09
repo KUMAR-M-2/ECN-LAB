@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+# REFERENCE NO:25018872
+# NAME:M.KUMAR
 
 **AIM:**
 
@@ -17,21 +19,26 @@
 *5.	Bread board	---	1*
 
 **THEORY:**
-
+ 
 *Kirchhoff’s Current Law (KCL) states that, ‘in an electric network, the algebraic sum of currents meeting at any junction is zero’. Since charges can never accumulate at any point, the charges flowing towards a junction must be equal to the charges flowing away from the junction.*
 
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
+ 
+<img width="385" height="547" alt="image" src="https://github.com/user-attachments/assets/e7b9f338-6c74-4065-be87-63fb1c9e853d" />
 
 
 
 
+**TABULAR COLUMN:**
+<img width="697" height="644" alt="image" src="https://github.com/user-attachments/assets/a4b7e827-728a-458a-bbda-27f781cb0613" />
+
+**CALCUlATION:**
 
 
-
-
-
+<img width="497" height="254" alt="image" src="https://github.com/user-attachments/assets/c5f65d7d-0af0-4041-a1b6-bb444b09e6f1" />
+<img width="536" height="820" alt="image" src="https://github.com/user-attachments/assets/eaf7707e-3119-436c-8ff5-56d23cee4359" />
 
 
 
@@ -48,6 +55,10 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+
+
+**MARK SPLIT UP:**
+<img width="649" height="414" alt="image" src="https://github.com/user-attachments/assets/9b0562fb-ab1c-42d5-ac8b-225f733094a9" />
 
 **RESULT:**
 
