@@ -1,5 +1,8 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+# REGISTER NO:25018938
+# NAME:EZHUMALAI K
+
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -24,12 +27,20 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="646" height="1280" alt="image" src="https://github.com/user-attachments/assets/ff64169b-d63d-497f-8c2c-ca6e4c2177da" />
 
 
 
+**TABULAR COLUMU:**
+
+<img width="391" height="254" alt="image" src="https://github.com/user-attachments/assets/b584d09a-4bdc-4e70-85b0-ea37e4a25edf" />
+
+**CALCULATION:**
+
+<img width="347" height="375" alt="image" src="https://github.com/user-attachments/assets/c54ccf89-7c22-4033-a5cc-64f95a7ec6ae" />
 
 
-
+<img width="349" height="553" alt="image" src="https://github.com/user-attachments/assets/b3336a02-7a2e-47ef-a857-5dcd03d26154" />
 
 
 
